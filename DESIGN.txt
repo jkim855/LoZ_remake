@@ -1,0 +1,9 @@
+1. New levels have made it impossible for Link to continue without the utilization of a new tool. His weapons have been taken away, but there are obstacles and impossible terrarin between him and the exit. Instead of simply running through each map, he will have to treat each of them as a small puzzle. 
+
+2. Link will have to utilize a portal gun that can make two portals he can freely move between. Link and arrows will be able to fire the gun diagonnaly or in any of the WASD directions. However, portals can only land on walls that have a block in front of them for Link to teleport to.
+
+3. Instead of the normal action adventure genre associated with The Legend of Zelda, the player will have to think more strategically to solve puzzles rather than slaying monsters.
+
+4. Our custom mechanic affects the way that the levels are created. If the portal gun was available in the original game, the player could avoid all enemies by placing portals at the exit and at his current location. With this, we have to design the levels in a way that the player has to use the portal gun to solve the puzzle, but the puzzle can't be too easy or the player can easily escape.
+
+5. We tried to make the feature fairly obvious with custom visuals and audio. However, the idea of portals and that they should come in pairs is fairly common, so we mainly just need to tell the player to equip the portal gun with the L key, which should also be intuitive as The Legend of Zelda requires the players to equip weapons. Firing will also be the same as other weapons, and once the visuals of the portals are created, the bright colors will hopefully convince them to walk into it. With all this said, we would most likely say, "Press L to equip the Portal Gun" after they have picked up the item.

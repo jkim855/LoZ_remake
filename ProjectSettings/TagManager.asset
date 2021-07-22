@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rupee
+  - heart
+  - toRight
+  - toUp
+  - toDown
+  - toLeft
+  - lockedDoor
+  - verticalLockedDoor
+  - upLockedDoorLeft
+  - upLockedDoorRight
+  - wall
+  - enemy
+  - rightLockedDoor
+  - leftLockedDoor
+  - key
+  - skeleton
+  - sword
+  - swordProjectile
+  - arrow
+  - swordProjectileFinish
+  - liveBomb
+  - explosion
+  - LeftWep
+  - bat
+  - boomerangProjectile
+  - gel
+  - bowTeleport
+  - bowLeave
+  - toRightOld
+  - toLeftOld
+  - spikeTrap
+  - cornerWall
+  - toLeftBats
+  - bigHeart
+  - toLeftBow
+  - toLeftOldBlock
+  - toUpOldBlock
+  - bow
+  - boomerang
+  - hand
+  - dragon
+  - bombDrop
+  - boomerangDrop
+  - spikeStop
+  - portalGun
+  - portalProjectile
+  - leftPortal
+  - rightPortal
+  - upPortal
+  - downPortal
+  - topTile
+  - bottomTile
+  - leftTile
+  - rightTile
+  - snorlax
+  - fireArrow
+  - dartTrap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Bats
+  - Walls
+  - Weapons
+  - SpikeTrap
+  - Enemies
+  - Pillars
+  - Ghost
+  - WeakWall
+  - fireArrow
+  - Player
+  - Projectile
+  - Aesthetic
+  - universalProjectile
+  - DragonBody
+  - 
+  - 
+  - Collect
+  - EnemyTrapper
+  - playerNoGo
+  - portalProjectile
+  - portalPrefab
+  - doorTile
+  - God
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Level
+    uniqueID: 1293275185
+    locked: 0
+  - name: Wall
+    uniqueID: 3085179689
+    locked: 0
+  - name: Portal
+    uniqueID: 170672795
+    locked: 0
